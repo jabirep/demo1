@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T10:58:09 IST" name="Suite" finished-at="2024-01-25T10:58:28 IST" duration-ms="19014">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T10:58:09 IST" name="Test" finished-at="2024-01-25T10:58:28 IST" duration-ms="19014">
+      <class name="testCases.TC_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001@8519cb4]" started-at="2024-01-25T10:58:09 IST" name="setup" finished-at="2024-01-25T10:58:15 IST" duration-ms="6093" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logiTest()[pri:0, instance:testCases.TC_001@8519cb4]" started-at="2024-01-25T10:58:15 IST" name="logiTest" finished-at="2024-01-25T10:58:26 IST" duration-ms="11178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logiTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001@8519cb4]" started-at="2024-01-25T10:58:26 IST" name="tearDown" finished-at="2024-01-25T10:58:28 IST" duration-ms="1682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
